@@ -1,5 +1,5 @@
 ![👋 Hi, my name is Nguyen Khoa](https://media.licdn.com/dms/image/v2/D4E16AQFuG4iiaCxYqQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728102320079?e=1733961600&v=beta&t=ClGJErvOjaBKtm-1POA26ZLoWMcEMXv-4kCliZycr9Q)
-
+<!https://camo.githubusercontent.com/0f72862a9e0a5489d065b28b4e28253019b28c8997b252b38a8a76e2858324e5/68747470733a2f2f63646e2e6c696768742d69742e6e65742f61727469636c65735f696d6167652f41727469636c6534355f4d312e6a7067>
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
