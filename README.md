@@ -28,7 +28,6 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KhoaTranNguyen&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <a href="https://git.io/streak-stats"><img width="48%" src="https://streak-stats.demolab.com?user=KhoaTranNguyen&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 <p align="left">
