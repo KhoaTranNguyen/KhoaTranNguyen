@@ -31,6 +31,8 @@
   <img width="48%" src="https://streak-stats.demolab.com?user=KhoaTranNguyen&theme=dark&hide_border=true&mode=weekly" alt="GitHub streak Card" />
 </p>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KhoaTranNguyen&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhoaTranNguyen&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=KhoaTranNguyen&repo=KhoaTranNguyen&theme=default&cache_seconds=1800&show_owner=false&title_color=fff&text_color=fff&icon_color=fff&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&locale=en" alt="GitHub repo-card Card" />
