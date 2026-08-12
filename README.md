@@ -1,4 +1,3 @@
-![👋 Hi, my name is Nguyen Khoa](https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/553206262_2200700430420688_8946097022739849077_n.jpg)
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
